@@ -52,3 +52,52 @@ Create environment:
 python3 -m venv venv
 
 source venv/bin/activate
+```
+
+## Install dependencies:
+
+pip install -r requirements.txt
+
+
+## Usage
+
+Put images:
+
+images/
+├── left.jpg
+└── right.jpg
+
+## Run:
+
+cd src
+
+python main.py
+
+## Output
+
+Generated files:
+
+outputs/
+
+├── panorama.jpg
+
+└── matches.jpg
+
+## Technologies
+
+* Python
+
+* OpenCV
+
+* NumPy
+
+## Computer Vision Concepts
+
+* Feature Detection
+
+* Feature Matching
+
+* Homography
+
+* RANSAC
+Image Warping
