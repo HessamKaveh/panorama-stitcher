@@ -56,22 +56,27 @@ source venv/bin/activate
 
 ## Install dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
 Put images:
 
 images/
+
 ├── left.jpg
+
 └── right.jpg
 
 ## Run:
 
+```bash
 cd src
 
 python main.py
+```
 
 ## Output
 
