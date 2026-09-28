@@ -106,3 +106,6 @@ outputs/
 
 * RANSAC
 Image Warping
+
+## Author
+Hessam Kaveh — Research Fellow, Italian Institute of Technology
